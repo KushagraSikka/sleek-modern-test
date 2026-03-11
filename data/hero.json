@@ -1,0 +1,40 @@
+{
+  "greeting": "Hello, I'm",
+  "name": "POOJA PATEL",
+  "roles": [
+    "Data Science Graduate",
+    "Cashier",
+    "Data Analyst"
+  ],
+  "tagline": "Data Science graduate with a strong background in statistical analysis, predictive modeling, and data visualization. Proficient in Python, R, SQL, Tableau, Power BI, and dashboard development, with hands-on experience analyzing large datasets, automating workflows, and improving decision-making in finance, cybersecurity, and business operations. Proven ability to streamline processes, enhance data accuracy, and deliver clear, actionable insights. Experienced project lead with strong communication, problem-solving, and collaboration skills.",
+  "ctaPrimary": {
+    "text": "View Projects",
+    "href": "#projects"
+  },
+  "ctaSecondary": {
+    "text": "Get Resume",
+    "href": "#contact"
+  },
+  "codeSnippet": {
+    "filename": "developer.js",
+    "code": "const profile = {\n    name: 'POOJA PATEL',\n    title: 'Data Science Graduate',\n    skills: [\n        'Python', 'R', 'SQL', 'Pandas', 'NumPy', 'ggplot2', 'ggmap', 'leaflet', 'Excel'\n    ],\n    hardWorker: true,\n    quickLearner: true,\n    problemSolver: true,\n    yearsOfExperience: 3,\n    hireable: function() {\n        return (\n            this.hardWorker &&\n            this.problemSolver &&\n            this.skills.length >= 5\n        );\n    }\n};"
+  },
+  "floatingBadges": [
+    {
+      "text": "UI Magic",
+      "color": "purple"
+    },
+    {
+      "text": "Clean Code",
+      "color": "blue"
+    },
+    {
+      "text": "Innovation",
+      "color": "amber"
+    }
+  ],
+  "socialLinks": {
+    "github": "https://github.com/KushagraSikka",
+    "email": "patel.pooja81599@gmail.com"
+  }
+}

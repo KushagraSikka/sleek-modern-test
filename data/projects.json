@@ -1,0 +1,186 @@
+{
+  "heading": "Featured Projects",
+  "projects": [
+    {
+      "name": "Project Lead: Analysis of Indian Cricket Team",
+      "description": "Implemented web scraping techniques using R and BeautifulSoup in R/Python to extract Indian cricket team data from multiple online sources. Conducted exploratory data analysis (EDA) and applied predictive modeling techniques to evaluate player performance metrics (e.g., Player Efficiency Rating (PER), Win Shares, Batting/Bowling Averages). Utilized hypothesis testing, regression analysis, and machine learning algorithms (e.g., Random Forest, Decision Trees) to assess team tactics and match outcomes.",
+      "technologies": [
+        "R",
+        "BeautifulSoup",
+        "Python",
+        "Random Forest",
+        "Decision Trees"
+      ],
+      "imageUrl": "",
+      "liveUrl": "",
+      "githubUrl": "",
+      "color": "#5196fd"
+    },
+    {
+      "name": "Project Lead: Analysis of Starbucks",
+      "description": "Led a data-driven analysis project on Starbucks using RStudio, managing the full pipeline from real-time data collection via web scraping to final stakeholder presentation. Developed and executed R scripts for data cleaning, transformation, and exploratory analysis, applying statistical techniques to uncover key consumer behavior trends. Created compelling visualizations with ggplot2, ggmap, and leaflet, including bar charts, scatter plots, and geospatial maps to highlight regional insights and support data-informed decision-making.",
+      "technologies": [
+        "RStudio",
+        "R",
+        "ggplot2",
+        "ggmap",
+        "leaflet"
+      ],
+      "imageUrl": "",
+      "liveUrl": "",
+      "githubUrl": "",
+      "color": "#8f89ff"
+    },
+    {
+      "name": "Project Lead: Global Cybersecurity Threats",
+      "description": "Designed and developed interactive Power BI dashboards to visualize global cybersecurity trends (2015–2024), including malware types, attack vectors, affected countries, and targeted industries, enabling strategic insights for stakeholders. Integrated, transformed, and analyzed multi-year cybersecurity datasets to uncover threat patterns, identify high-risk regions, and support forecasting of emerging cyber threats using historical data models within Power BI. Collaborated on machine learning initiatives by delivering data-driven insights and automated real-time reporting workflows, enhancing global threat detection capabilities and digital security intelligence.",
+      "technologies": [
+        "Power BI"
+      ],
+      "imageUrl": "",
+      "liveUrl": "",
+      "githubUrl": "",
+      "color": "#34d399"
+    },
+    {
+      "name": "RAG_Microservice-",
+      "description": "RAG-Microservice: A robust, scalable question-answering service leveraging the Retriever-Answer Generator (RAG) architecture. Built with [Tech/Models used, e.g., Elasticsearch, GPT-3], this service efficiently retrieves relevant documents and generates precise answers for complex queries. ",
+      "technologies": [
+        "Python",
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "Dockerfile",
+        "Shell"
+      ],
+      "imageUrl": "",
+      "liveUrl": "https://github.com/KushagraSikka/RAG_Microservice-",
+      "githubUrl": "https://github.com/KushagraSikka/RAG_Microservice-",
+      "color": "#ed649e"
+    },
+    {
+      "name": "cross-platform-marketing-analytics",
+      "description": "Cross-Platform Marketing Analytics Pipeline — Facebook, Google, TikTok | BigQuery + SQL + Tableau",
+      "technologies": [
+        "HTML",
+        "Python"
+      ],
+      "imageUrl": "",
+      "liveUrl": "https://github.com/KushagraSikka/cross-platform-marketing-analytics",
+      "githubUrl": "https://github.com/KushagraSikka/cross-platform-marketing-analytics",
+      "color": "#f97316"
+    },
+    {
+      "name": "comprehensive-mcp-guide",
+      "description": " The Complete Model Context Protocol (MCP) Guide - 181 files, 15+ commits, 100+ examples",
+      "technologies": [
+        "JavaScript"
+      ],
+      "imageUrl": "",
+      "liveUrl": "https://github.com/KushagraSikka/comprehensive-mcp-guide",
+      "githubUrl": "https://github.com/KushagraSikka/comprehensive-mcp-guide",
+      "color": "#facc15"
+    },
+    {
+      "name": "Gator_taxi_Advanced_data_struc",
+      "description": "GatorTaxi is a ride-sharing system that efficiently manages ride requests using a Red-Black Tree (RBT) and Min-Heap. The system supports inserting, updating, querying, and canceling rides, ensuring fast operations. With O(log n) complexity, it handles up to 2000 active rides, offering optimal performance for real-time ride management.",
+      "technologies": [
+        "Python",
+        "Makefile"
+      ],
+      "imageUrl": "",
+      "liveUrl": "https://github.com/KushagraSikka/Gator_taxi_Advanced_data_struc",
+      "githubUrl": "https://github.com/KushagraSikka/Gator_taxi_Advanced_data_struc",
+      "color": "#5196fd"
+    },
+    {
+      "name": "bank-app-spring-cloud-microservices",
+      "description": "Practice repository for exploring advanced features",
+      "technologies": [
+        "Java"
+      ],
+      "imageUrl": "",
+      "liveUrl": "https://github.com/KushagraSikka/bank-app-spring-cloud-microservices",
+      "githubUrl": "https://github.com/KushagraSikka/bank-app-spring-cloud-microservices",
+      "color": "#8f89ff"
+    },
+    {
+      "name": "minikeyvalue",
+      "description": "Interactive application built for continuous learning",
+      "technologies": [
+        "Go",
+        "Python",
+        "Shell",
+        "Dockerfile"
+      ],
+      "imageUrl": "",
+      "liveUrl": "https://github.com/KushagraSikka/minikeyvalue",
+      "githubUrl": "https://github.com/KushagraSikka/minikeyvalue",
+      "color": "#34d399"
+    },
+    {
+      "name": "portfolio",
+      "description": "A modern, responsive portfolio template with JSON-driven content, beautiful design, and easy customization. Perfect for developers, designers, and professionals.",
+      "technologies": [
+        "JavaScript",
+        "CSS",
+        "Shell",
+        "HTML"
+      ],
+      "imageUrl": "",
+      "liveUrl": "https://github.com/KushagraSikka/portfolio",
+      "githubUrl": "https://github.com/KushagraSikka/portfolio",
+      "color": "#ed649e"
+    },
+    {
+      "name": "creative-animated-test",
+      "description": "Professional portfolio for KushagraSikka",
+      "technologies": [
+        "JavaScript",
+        "CSS",
+        "HTML"
+      ],
+      "imageUrl": "",
+      "liveUrl": "https://github.com/KushagraSikka/creative-animated-test",
+      "githubUrl": "https://github.com/KushagraSikka/creative-animated-test",
+      "color": "#f97316"
+    },
+    {
+      "name": "KushagraSikka.github.io-4759",
+      "description": "Professional portfolio for KushagraSikka",
+      "technologies": [
+        "CSS",
+        "JavaScript",
+        "HTML"
+      ],
+      "imageUrl": "",
+      "liveUrl": "https://github.com/KushagraSikka/KushagraSikka.github.io-4759",
+      "githubUrl": "https://github.com/KushagraSikka/KushagraSikka.github.io-4759",
+      "color": "#facc15"
+    },
+    {
+      "name": "data-pipeline-with-dbt-using-airflow-on-gcp",
+      "description": "Educational project for mastering software architecture",
+      "technologies": [
+        "Python",
+        "Dockerfile"
+      ],
+      "imageUrl": "",
+      "liveUrl": "https://github.com/KushagraSikka/data-pipeline-with-dbt-using-airflow-on-gcp",
+      "githubUrl": "https://github.com/KushagraSikka/data-pipeline-with-dbt-using-airflow-on-gcp",
+      "color": "#5196fd"
+    },
+    {
+      "name": "python-for-automating-information-security",
+      "description": "Hands-on learning experience with modern frameworks",
+      "technologies": [
+        "Python"
+      ],
+      "imageUrl": "",
+      "liveUrl": "https://github.com/KushagraSikka/python-for-automating-information-security",
+      "githubUrl": "https://github.com/KushagraSikka/python-for-automating-information-security",
+      "color": "#8f89ff"
+    }
+  ]
+}

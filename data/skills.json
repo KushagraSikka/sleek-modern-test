@@ -1,0 +1,129 @@
+{
+  "heading": "Skills & Technologies",
+  "categories": [
+    {
+      "name": "Languages",
+      "color": "#60a5fa",
+      "icon": "code",
+      "skills": [
+        {
+          "name": "Python",
+          "level": 91
+        },
+        {
+          "name": "R",
+          "level": 91
+        },
+        {
+          "name": "SQL",
+          "level": 92
+        }
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "color": "#34d399",
+      "icon": "server",
+      "skills": [
+        {
+          "name": "Pandas",
+          "level": 75
+        },
+        {
+          "name": "NumPy",
+          "level": 90
+        },
+        {
+          "name": "ggplot2",
+          "level": 80
+        },
+        {
+          "name": "ggmap",
+          "level": 91
+        },
+        {
+          "name": "leaflet",
+          "level": 86
+        }
+      ]
+    },
+    {
+      "name": "Tools & Platforms",
+      "color": "#f97316",
+      "icon": "cloud",
+      "skills": [
+        {
+          "name": "Excel",
+          "level": 84
+        },
+        {
+          "name": "Tableau",
+          "level": 77
+        },
+        {
+          "name": "Power BI",
+          "level": 88
+        },
+        {
+          "name": "RStudio",
+          "level": 82
+        }
+      ]
+    },
+    {
+      "name": "Technical",
+      "color": "#a78bfa",
+      "icon": "palette",
+      "skills": [
+        {
+          "name": "Data Analysis",
+          "level": 77
+        },
+        {
+          "name": "Statistical Modeling",
+          "level": 78
+        },
+        {
+          "name": "Data Mining",
+          "level": 81
+        },
+        {
+          "name": "Data Wrangling",
+          "level": 83
+        },
+        {
+          "name": "SQL Management",
+          "level": 76
+        },
+        {
+          "name": "Data Visualization",
+          "level": 79
+        },
+        {
+          "name": "Dashboarding",
+          "level": 90
+        },
+        {
+          "name": "Problem-Solving",
+          "level": 85
+        },
+        {
+          "name": "Analytical Thinking",
+          "level": 94
+        },
+        {
+          "name": "Time Management",
+          "level": 93
+        },
+        {
+          "name": "Collaboration",
+          "level": 88
+        },
+        {
+          "name": "Attention to Detail",
+          "level": 80
+        }
+      ]
+    }
+  ]
+}

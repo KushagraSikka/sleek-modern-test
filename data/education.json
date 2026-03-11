@@ -1,0 +1,29 @@
+{
+  "heading": "Educational Journey",
+  "subtitle": "Discover how academic excellence shapes innovative thinking and professional growth.",
+  "entries": [
+    {
+      "degree": "Bachelors of Science",
+      "institution": "University of Houston Downtown",
+      "field": "Data Science (Minor in Mathematics and Statistics)",
+      "startDate": "2021",
+      "endDate": "2024",
+      "gpa": "",
+      "description": "",
+      "achievements": [],
+      "skills": []
+    },
+    {
+      "degree": "Associate",
+      "institution": "Houston Community College",
+      "field": "Information Technology",
+      "startDate": "2018",
+      "endDate": "2021",
+      "gpa": "",
+      "description": "",
+      "achievements": [],
+      "skills": []
+    }
+  ],
+  "certifications": []
+}

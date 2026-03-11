@@ -1,0 +1,61 @@
+{
+  "heading": "Professional Journey",
+  "subtitle": "Transforming ideas into digital reality, one project at a time",
+  "positions": [
+    {
+      "title": "Cashier",
+      "company": "Beverly Hills Supermarket and Liquor",
+      "location": "",
+      "startDate": "2024",
+      "endDate": "2025",
+      "description": "Processed 100+ daily transactions with 100% accuracy, maintaining a balanced register. Assisted 50+ customers per shift, resolving inquiries and ensuring a 95% satisfaction rate. Monitored inventory and enforced liquor law compliance, enhancing store organization and retention.",
+      "achievements": [
+        "Processed 100+ daily transactions with 100% accuracy, maintaining a balanced register.",
+        "Assisted 50+ customers per shift, resolving inquiries and ensuring a 95% satisfaction rate.",
+        "Monitored inventory and enforced liquor law compliance, enhancing store organization and retention."
+      ],
+      "technologies": []
+    },
+    {
+      "title": "Data Analyst",
+      "company": "Solomon Edwards (PennyMac)",
+      "location": "",
+      "startDate": "2024",
+      "endDate": "2025",
+      "description": "Conducted data analysis on 200+ loan applications weekly using SQL, Excel, and Python (Pandas, NumPy), achieving a 98% accuracy rate and reducing processing time by 20%. Utilized predictive analytics and machine learning models (Logistic Regression, Decision Trees) to detect loan discrepancies, leading to a 15% increase in approval efficiency. Designed and maintained interactive data dashboards using Power BI and Tableau, visualizing underwriting trends to improve decision-making.",
+      "achievements": [
+        "Conducted data analysis on 200+ loan applications weekly using SQL, Excel, and Python (Pandas, NumPy), achieving a 98% accuracy rate and reducing processing time by 20%.",
+        "Utilized predictive analytics and machine learning models (Logistic Regression, Decision Trees) to detect loan discrepancies, leading to a 15% increase in approval efficiency.",
+        "Designed and maintained interactive data dashboards using Power BI and Tableau, visualizing underwriting trends to improve decision-making."
+      ],
+      "technologies": [
+        "SQL",
+        "Excel",
+        "Python",
+        "Pandas",
+        "NumPy",
+        "Logistic Regression",
+        "Decision Trees",
+        "Power BI",
+        "Tableau"
+      ]
+    },
+    {
+      "title": "Technical Support Specialist",
+      "company": "Accenture",
+      "location": "",
+      "startDate": "2021",
+      "endDate": "2023",
+      "description": "Managed and analyzed over 500+ user setup datasets for KDOL agents, reducing onboarding time by 25%. Developed automation scripts using Python and SQL to streamline system configurations, reducing manual effort by 30%. Led database optimization efforts, improving data retrieval speed by 40% for internal reporting tools.",
+      "achievements": [
+        "Managed and analyzed over 500+ user setup datasets for KDOL agents, reducing onboarding time by 25%.",
+        "Developed automation scripts using Python and SQL to streamline system configurations, reducing manual effort by 30%.",
+        "Led database optimization efforts, improving data retrieval speed by 40% for internal reporting tools."
+      ],
+      "technologies": [
+        "Python",
+        "SQL"
+      ]
+    }
+  ]
+}
